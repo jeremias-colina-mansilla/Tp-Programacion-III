@@ -1,2 +1,2 @@
 linea orginal para crear un conflicto
-linea de conflicto1
+modificando la linea de conflicto1 modificada por conflicto2

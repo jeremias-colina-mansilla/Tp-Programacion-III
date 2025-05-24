@@ -1,4 +1,4 @@
-linea orginal para crear un conflicto
+linea orginal para crear un conflicto se podra?
 modificando la linea de conflicto1 modificada por conflicto2
 linea orginal para crear un conflicto hola
-linea de conflicto1
+linea de conflicto1 en la rama conflicto3 ahora quiere hacer un conflicto

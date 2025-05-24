@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(29, 22, 124);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 12rem;
+    margin-top: 3rem;
+}
+html{
+    background-color: rgb(48, 24, 180);
+}
+#imcform {
+    background-color: #00fac4;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(40, 42, 134);
+    align-items: center;
+    border-radius: 4px;
+}
